@@ -1,0 +1,74 @@
+[
+  {
+    "id": "SC001",
+    "category": "Sains",
+    "title": "Air murni membeku pada sekitar 0 derajat Celsius pada tekanan udara normal.",
+    "fact": "https://www.nist.gov/",
+    "age": 10,
+    "safe": true,
+    "reviewed": false
+  },
+  {
+    "id": "SC002",
+    "category": "Sains",
+    "title": "Suara membutuhkan medium seperti udara, air, atau benda padat untuk merambat; suara tidak merambat melalui ruang hampa.",
+    "fact": "https://spaceplace.nasa.gov/sound/",
+    "age": 10,
+    "safe": true,
+    "reviewed": false
+  },
+  {
+    "id": "SC003",
+    "category": "Sains",
+    "title": "Cahaya bergerak jauh lebih cepat daripada suara.",
+    "fact": "https://www.nasa.gov/",
+    "age": 10,
+    "safe": true,
+    "reviewed": false
+  },
+  {
+    "id": "SC004",
+    "category": "Sains",
+    "title": "Magnet memiliki dua kutub yang disebut utara dan selatan.",
+    "fact": "https://www.britannica.com/science/magnet",
+    "age": 10,
+    "safe": true,
+    "reviewed": false
+  },
+  {
+    "id": "SC005",
+    "category": "Sains",
+    "title": "Bayangan terbentuk ketika suatu benda menghalangi jalannya cahaya.",
+    "fact": "https://www.britannica.com/science/shadow",
+    "age": 10,
+    "safe": true,
+    "reviewed": false
+  },
+  {
+    "id": "SC006",
+    "category": "Sains",
+    "title": "Tubuh manusia memiliki rangka yang membantu menopang tubuh dan melindungi beberapa organ.",
+    "fact": "https://medlineplus.gov/bonesjointsandmuscles.html",
+    "age": 10,
+    "safe": true,
+    "reviewed": false
+  },
+  {
+    "id": "SC007",
+    "category": "Sains",
+    "title": "Tumbuhan menggunakan cahaya untuk membantu proses fotosintesis, yaitu membuat gula dari air dan karbon dioksida.",
+    "fact": "https://www.nationalgeographic.org/encyclopedia/photosynthesis/",
+    "age": 10,
+    "safe": true,
+    "reviewed": false
+  },
+  {
+    "id": "SC008",
+    "category": "Sains",
+    "title": "Sebagian besar benda memuai ketika dipanaskan dan menyusut ketika didinginkan, meskipun ada pengecualian.",
+    "fact": "https://www.britannica.com/science/thermal-expansion",
+    "age": 10,
+    "safe": true,
+    "reviewed": false
+  }
+]
