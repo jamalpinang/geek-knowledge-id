@@ -2,73 +2,81 @@
   {
     "id": "TE001",
     "category": "Teknologi",
-    "title": "Komputer menyimpan dan mengolah informasi dalam bentuk data digital.",
-    "fact": "https://www.britannica.com/technology/computer",
+    "title": "Komputer menyimpan dan mengolah ",
+    "fact": "Komputer menyimpan dan mengolah informasi dalam bentuk data digital.",
     "age": 10,
     "safe": true,
-    "reviewed": false
+    "reviewed": false,
+    "source_url": "https://www.britannica.com/technology/computer"
   },
   {
     "id": "TE002",
     "category": "Teknologi",
-    "title": "Kode biner menggunakan dua angka, yaitu 0 dan 1, untuk mewakili data.",
-    "fact": "https://www.britannica.com/science/binary-number",
+    "title": "Kode biner menggunakan dua angka",
+    "fact": "Kode biner menggunakan dua angka, yaitu 0 dan 1, untuk mewakili data.",
     "age": 10,
     "safe": true,
-    "reviewed": false
+    "reviewed": false,
+    "source_url": "https://www.britannica.com/science/binary-number"
   },
   {
     "id": "TE003",
     "category": "Teknologi",
-    "title": "Sensor adalah komponen yang mendeteksi perubahan seperti suhu, cahaya, atau gerakan.",
-    "fact": "https://www.britannica.com/technology/sensor",
+    "title": "Sensor adalah komponen yang mend",
+    "fact": "Sensor adalah komponen yang mendeteksi perubahan seperti suhu, cahaya, atau gerakan.",
     "age": 10,
     "safe": true,
-    "reviewed": false
+    "reviewed": false,
+    "source_url": "https://www.britannica.com/technology/sensor"
   },
   {
     "id": "TE004",
     "category": "Teknologi",
-    "title": "GPS menentukan lokasi dengan menerima sinyal dari beberapa satelit navigasi.",
-    "fact": "https://www.gps.gov/",
+    "title": "GPS menentukan lokasi dengan men",
+    "fact": "GPS menentukan lokasi dengan menerima sinyal dari beberapa satelit navigasi.",
     "age": 10,
     "safe": true,
-    "reviewed": false
+    "reviewed": false,
+    "source_url": "https://www.gps.gov/"
   },
   {
     "id": "TE005",
     "category": "Teknologi",
-    "title": "Panel surya mengubah energi cahaya Matahari menjadi energi listrik.",
-    "fact": "https://www.energy.gov/eere/solar/how-does-solar-work",
+    "title": "Panel surya mengubah energi caha",
+    "fact": "Panel surya mengubah energi cahaya Matahari menjadi energi listrik.",
     "age": 10,
     "safe": true,
-    "reviewed": false
+    "reviewed": false,
+    "source_url": "https://www.energy.gov/eere/solar/how-does-solar-work"
   },
   {
     "id": "TE006",
     "category": "Teknologi",
-    "title": "Serat optik mengirimkan informasi menggunakan pulsa cahaya di dalam serat yang sangat tipis.",
-    "fact": "https://www.britannica.com/technology/fiber-optics",
+    "title": "Serat optik mengirimkan informas",
+    "fact": "Serat optik mengirimkan informasi menggunakan pulsa cahaya di dalam serat yang sangat tipis.",
     "age": 10,
     "safe": true,
-    "reviewed": false
+    "reviewed": false,
+    "source_url": "https://www.britannica.com/technology/fiber-optics"
   },
   {
     "id": "TE007",
     "category": "Teknologi",
-    "title": "Bluetooth adalah teknologi komunikasi nirkabel jarak dekat antarperangkat.",
-    "fact": "https://www.bluetooth.com/learn-about-bluetooth/",
+    "title": "Bluetooth adalah teknologi komun",
+    "fact": "Bluetooth adalah teknologi komunikasi nirkabel jarak dekat antarperangkat.",
     "age": 10,
     "safe": true,
-    "reviewed": false
+    "reviewed": false,
+    "source_url": "https://www.bluetooth.com/learn-about-bluetooth/"
   },
   {
     "id": "TE008",
     "category": "Teknologi",
-    "title": "Mikrokontroler adalah komputer kecil dalam satu chip yang dapat mengendalikan perangkat elektronik.",
-    "fact": "https://www.britannica.com/technology/microprocessor",
+    "title": "Mikrokontroler adalah komputer k",
+    "fact": "Mikrokontroler adalah komputer kecil dalam satu chip yang dapat mengendalikan perangkat elektronik.",
     "age": 10,
     "safe": true,
-    "reviewed": false
+    "reviewed": false,
+    "source_url": "https://www.britannica.com/technology/microprocessor"
   }
 ]
