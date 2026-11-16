@@ -2,73 +2,81 @@
   {
     "id": "SC001",
     "category": "Sains",
-    "title": "Air murni membeku pada sekitar 0 derajat Celsius pada tekanan udara normal.",
-    "fact": "https://www.nist.gov/",
+    "title": "Air murni membeku pada sekitar",
+    "fact": "Air murni membeku pada sekitar 0 derajat Celsius pada tekanan udara normal.",
     "age": 10,
     "safe": true,
-    "reviewed": false
+    "reviewed": false,
+    "source_url": "https://www.nist.gov/"
   },
   {
     "id": "SC002",
     "category": "Sains",
-    "title": "Suara membutuhkan medium seperti udara, air, atau benda padat untuk merambat; suara tidak merambat melalui ruang hampa.",
-    "fact": "https://spaceplace.nasa.gov/sound/",
+    "title": "Suara membutuhkan medium seperti",
+    "fact": "Suara membutuhkan medium seperti udara, air, atau benda padat untuk merambat; suara tidak merambat melalui ruang hampa.",
     "age": 10,
     "safe": true,
-    "reviewed": false
+    "reviewed": false,
+    "source_url": "https://spaceplace.nasa.gov/sound/"
   },
   {
     "id": "SC003",
     "category": "Sains",
-    "title": "Cahaya bergerak jauh lebih cepat daripada suara.",
-    "fact": "https://www.nasa.gov/",
+    "title": "Cahaya bergerak jauh lebih cepat",
+    "fact": "Cahaya bergerak jauh lebih cepat daripada suara.",
     "age": 10,
     "safe": true,
-    "reviewed": false
+    "reviewed": false,
+    "source_url": "https://www.nasa.gov/"
   },
   {
     "id": "SC004",
     "category": "Sains",
-    "title": "Magnet memiliki dua kutub yang disebut utara dan selatan.",
-    "fact": "https://www.britannica.com/science/magnet",
+    "title": "Magnet memiliki dua kutub yang",
+    "fact": "Magnet memiliki dua kutub yang disebut utara dan selatan.",
     "age": 10,
     "safe": true,
-    "reviewed": false
+    "reviewed": false,
+    "source_url": "https://www.britannica.com/science/magnet"
   },
   {
     "id": "SC005",
     "category": "Sains",
-    "title": "Bayangan terbentuk ketika suatu benda menghalangi jalannya cahaya.",
-    "fact": "https://www.britannica.com/science/shadow",
+    "title": "Bayangan terbentuk ketika suatu ",
+    "fact": "Bayangan terbentuk ketika suatu benda menghalangi jalannya cahaya.",
     "age": 10,
     "safe": true,
-    "reviewed": false
+    "reviewed": false,
+    "source_url": "https://www.britannica.com/science/shadow"
   },
   {
     "id": "SC006",
     "category": "Sains",
-    "title": "Tubuh manusia memiliki rangka yang membantu menopang tubuh dan melindungi beberapa organ.",
-    "fact": "https://medlineplus.gov/bonesjointsandmuscles.html",
+    "title": "Tubuh manusia memiliki rangka ya",
+    "fact": "Tubuh manusia memiliki rangka yang membantu menopang tubuh dan melindungi beberapa organ.",
     "age": 10,
     "safe": true,
-    "reviewed": false
+    "reviewed": false,
+    "source_url": "https://medlineplus.gov/bonesjointsandmuscles.html"
   },
   {
     "id": "SC007",
     "category": "Sains",
-    "title": "Tumbuhan menggunakan cahaya untuk membantu proses fotosintesis, yaitu membuat gula dari air dan karbon dioksida.",
-    "fact": "https://www.nationalgeographic.org/encyclopedia/photosynthesis/",
+    "title": "Tumbuhan menggunakan cahaya untu",
+    "fact": "Tumbuhan menggunakan cahaya untuk membantu proses fotosintesis, yaitu membuat gula dari air dan karbon dioksida.",
     "age": 10,
     "safe": true,
-    "reviewed": false
+    "reviewed": false,
+    "source_url": "https://www.nationalgeographic.org/encyclopedia/photosynthesis/"
   },
   {
     "id": "SC008",
     "category": "Sains",
-    "title": "Sebagian besar benda memuai ketika dipanaskan dan menyusut ketika didinginkan, meskipun ada pengecualian.",
-    "fact": "https://www.britannica.com/science/thermal-expansion",
+    "title": "Sebagian besar benda memuai keti",
+    "fact": "Sebagian besar benda memuai ketika dipanaskan dan menyusut ketika didinginkan, meskipun ada pengecualian.",
     "age": 10,
     "safe": true,
-    "reviewed": false
+    "reviewed": false,
+    "source_url": "https://www.britannica.com/science/thermal-expansion"
   }
 ]
