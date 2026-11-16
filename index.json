@@ -1,0 +1,51 @@
+{
+  "schema_version": 1,
+  "language": "id",
+  "dataset": "Geek Knowledge Indonesia",
+  "audience_age": 10,
+  "total_facts": 64,
+  "categories": [
+    {
+      "id": "animals",
+      "file": "data/animals.json",
+      "count": 8
+    },
+    {
+      "id": "nature",
+      "file": "data/nature.json",
+      "count": 8
+    },
+    {
+      "id": "space",
+      "file": "data/space.json",
+      "count": 8
+    },
+    {
+      "id": "science",
+      "file": "data/science.json",
+      "count": 8
+    },
+    {
+      "id": "technology",
+      "file": "data/technology.json",
+      "count": 8
+    },
+    {
+      "id": "history",
+      "file": "data/history.json",
+      "count": 8
+    },
+    {
+      "id": "general",
+      "file": "data/general.json",
+      "count": 8
+    },
+    {
+      "id": "ocean",
+      "file": "data/ocean.json",
+      "count": 8
+    }
+  ],
+  "update_interval_minutes": 30,
+  "note": "Batch awal. Nilai reviewed=false berarti perlu pemeriksaan editorial sebelum dianggap terverifikasi."
+}
