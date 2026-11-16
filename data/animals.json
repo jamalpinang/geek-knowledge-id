@@ -1,0 +1,74 @@
+[
+  {
+    "id": "AN001",
+    "category": "Hewan",
+    "title": "Gurita memiliki tiga jantung. Dua jantung memompa darah ke insang, sedangkan satu jantung memompa darah ke seluruh tubuh.",
+    "fact": "https://ocean.si.edu/ocean-life/invertebrates/octopuses",
+    "age": 10,
+    "safe": true,
+    "reviewed": false
+  },
+  {
+    "id": "AN002",
+    "category": "Hewan",
+    "title": "Kupu-kupu mencicipi makanan menggunakan sensor pada kakinya.",
+    "fact": "https://www.si.edu/spotlight/buginfo",
+    "age": 10,
+    "safe": true,
+    "reviewed": false
+  },
+  {
+    "id": "AN003",
+    "category": "Hewan",
+    "title": "Gajah berkomunikasi dengan suara berfrekuensi sangat rendah yang dapat merambat jauh.",
+    "fact": "https://www.nationalgeographic.com/animals",
+    "age": 10,
+    "safe": true,
+    "reviewed": false
+  },
+  {
+    "id": "AN004",
+    "category": "Hewan",
+    "title": "Lumba-lumba bernapas menggunakan paru-paru dan harus naik ke permukaan untuk mengambil udara.",
+    "fact": "https://ocean.si.edu/ocean-life/marine-mammals",
+    "age": 10,
+    "safe": true,
+    "reviewed": false
+  },
+  {
+    "id": "AN005",
+    "category": "Hewan",
+    "title": "Jerapah memiliki tujuh tulang leher, jumlah yang sama dengan manusia.",
+    "fact": "https://www.britannica.com/animal/giraffe",
+    "age": 10,
+    "safe": true,
+    "reviewed": false
+  },
+  {
+    "id": "AN006",
+    "category": "Hewan",
+    "title": "Lebah madu dapat memberi tahu lebah lain arah dan jarak sumber makanan melalui gerakan tarian.",
+    "fact": "https://www.nationalgeographic.com/animals",
+    "age": 10,
+    "safe": true,
+    "reviewed": false
+  },
+  {
+    "id": "AN007",
+    "category": "Hewan",
+    "title": "Bintang laut tidak memiliki otak seperti manusia; sistem sarafnya tersebar di tubuh.",
+    "fact": "https://ocean.si.edu/ocean-life/invertebrates",
+    "age": 10,
+    "safe": true,
+    "reviewed": false
+  },
+  {
+    "id": "AN008",
+    "category": "Hewan",
+    "title": "Penguin adalah burung, tetapi sayapnya beradaptasi untuk membantu berenang, bukan terbang di udara.",
+    "fact": "https://www.britannica.com/animal/penguin",
+    "age": 10,
+    "safe": true,
+    "reviewed": false
+  }
+]
