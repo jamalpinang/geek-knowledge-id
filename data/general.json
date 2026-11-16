@@ -1,0 +1,74 @@
+[
+  {
+    "id": "GE001",
+    "category": "Pengetahuan Umum",
+    "title": "Gurita, cumi-cumi, dan sotong termasuk kelompok hewan moluska yang disebut cephalopoda.",
+    "fact": "https://ocean.si.edu/ocean-life/invertebrates",
+    "age": 10,
+    "safe": true,
+    "reviewed": false
+  },
+  {
+    "id": "GE002",
+    "category": "Pengetahuan Umum",
+    "title": "Satu minggu terdiri dari tujuh hari menurut kalender yang umum digunakan saat ini.",
+    "fact": "https://www.britannica.com/science/calendar",
+    "age": 10,
+    "safe": true,
+    "reviewed": false
+  },
+  {
+    "id": "GE003",
+    "category": "Pengetahuan Umum",
+    "title": "Antartika adalah benua paling selatan di Bumi dan sebagian besar tertutup es.",
+    "fact": "https://www.nationalgeographic.com/environment",
+    "age": 10,
+    "safe": true,
+    "reviewed": false
+  },
+  {
+    "id": "GE004",
+    "category": "Pengetahuan Umum",
+    "title": "Bahasa Indonesia menggunakan alfabet Latin dalam penulisan modern.",
+    "fact": "https://www.britannica.com/topic/Indonesian-language",
+    "age": 10,
+    "safe": true,
+    "reviewed": false
+  },
+  {
+    "id": "GE005",
+    "category": "Pengetahuan Umum",
+    "title": "Peta membantu menunjukkan letak tempat dan hubungan jarak atau arah antarwilayah.",
+    "fact": "https://www.britannica.com/science/map",
+    "age": 10,
+    "safe": true,
+    "reviewed": false
+  },
+  {
+    "id": "GE006",
+    "category": "Pengetahuan Umum",
+    "title": "Kelelawar adalah mamalia; induknya menyusui anaknya.",
+    "fact": "https://www.britannica.com/animal/bat-mammal",
+    "age": 10,
+    "safe": true,
+    "reviewed": false
+  },
+  {
+    "id": "GE007",
+    "category": "Pengetahuan Umum",
+    "title": "Air dapat ditemukan di Bumi dalam bentuk padat, cair, dan gas.",
+    "fact": "https://www.usgs.gov/special-topics/water-science-school",
+    "age": 10,
+    "safe": true,
+    "reviewed": false
+  },
+  {
+    "id": "GE008",
+    "category": "Pengetahuan Umum",
+    "title": "Indonesia memiliki lebih dari 17.000 pulau menurut berbagai penghitungan resmi yang dapat berubah seiring pemutakhiran data.",
+    "fact": "https://www.big.go.id/",
+    "age": 10,
+    "safe": true,
+    "reviewed": false
+  }
+]
