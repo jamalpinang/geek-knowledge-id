@@ -2,73 +2,81 @@
   {
     "id": "GE001",
     "category": "Pengetahuan Umum",
-    "title": "Gurita, cumi-cumi, dan sotong termasuk kelompok hewan moluska yang disebut cephalopoda.",
-    "fact": "https://ocean.si.edu/ocean-life/invertebrates",
+    "title": "Gurita cumi-cumi dan sotong term",
+    "fact": "Gurita, cumi-cumi, dan sotong termasuk kelompok hewan moluska yang disebut cephalopoda.",
     "age": 10,
     "safe": true,
-    "reviewed": false
+    "reviewed": false,
+    "source_url": "https://ocean.si.edu/ocean-life/invertebrates"
   },
   {
     "id": "GE002",
     "category": "Pengetahuan Umum",
-    "title": "Satu minggu terdiri dari tujuh hari menurut kalender yang umum digunakan saat ini.",
-    "fact": "https://www.britannica.com/science/calendar",
+    "title": "Satu minggu terdiri dari tujuh",
+    "fact": "Satu minggu terdiri dari tujuh hari menurut kalender yang umum digunakan saat ini.",
     "age": 10,
     "safe": true,
-    "reviewed": false
+    "reviewed": false,
+    "source_url": "https://www.britannica.com/science/calendar"
   },
   {
     "id": "GE003",
     "category": "Pengetahuan Umum",
-    "title": "Antartika adalah benua paling selatan di Bumi dan sebagian besar tertutup es.",
-    "fact": "https://www.nationalgeographic.com/environment",
+    "title": "Antartika adalah benua paling se",
+    "fact": "Antartika adalah benua paling selatan di Bumi dan sebagian besar tertutup es.",
     "age": 10,
     "safe": true,
-    "reviewed": false
+    "reviewed": false,
+    "source_url": "https://www.nationalgeographic.com/environment"
   },
   {
     "id": "GE004",
     "category": "Pengetahuan Umum",
-    "title": "Bahasa Indonesia menggunakan alfabet Latin dalam penulisan modern.",
-    "fact": "https://www.britannica.com/topic/Indonesian-language",
+    "title": "Bahasa Indonesia menggunakan alf",
+    "fact": "Bahasa Indonesia menggunakan alfabet Latin dalam penulisan modern.",
     "age": 10,
     "safe": true,
-    "reviewed": false
+    "reviewed": false,
+    "source_url": "https://www.britannica.com/topic/Indonesian-language"
   },
   {
     "id": "GE005",
     "category": "Pengetahuan Umum",
-    "title": "Peta membantu menunjukkan letak tempat dan hubungan jarak atau arah antarwilayah.",
-    "fact": "https://www.britannica.com/science/map",
+    "title": "Peta membantu menunjukkan letak ",
+    "fact": "Peta membantu menunjukkan letak tempat dan hubungan jarak atau arah antarwilayah.",
     "age": 10,
     "safe": true,
-    "reviewed": false
+    "reviewed": false,
+    "source_url": "https://www.britannica.com/science/map"
   },
   {
     "id": "GE006",
     "category": "Pengetahuan Umum",
-    "title": "Kelelawar adalah mamalia; induknya menyusui anaknya.",
-    "fact": "https://www.britannica.com/animal/bat-mammal",
+    "title": "Kelelawar adalah mamalia indukny",
+    "fact": "Kelelawar adalah mamalia; induknya menyusui anaknya.",
     "age": 10,
     "safe": true,
-    "reviewed": false
+    "reviewed": false,
+    "source_url": "https://www.britannica.com/animal/bat-mammal"
   },
   {
     "id": "GE007",
     "category": "Pengetahuan Umum",
-    "title": "Air dapat ditemukan di Bumi dalam bentuk padat, cair, dan gas.",
-    "fact": "https://www.usgs.gov/special-topics/water-science-school",
+    "title": "Air dapat ditemukan di Bumi",
+    "fact": "Air dapat ditemukan di Bumi dalam bentuk padat, cair, dan gas.",
     "age": 10,
     "safe": true,
-    "reviewed": false
+    "reviewed": false,
+    "source_url": "https://www.usgs.gov/special-topics/water-science-school"
   },
   {
     "id": "GE008",
     "category": "Pengetahuan Umum",
-    "title": "Indonesia memiliki lebih dari 17.000 pulau menurut berbagai penghitungan resmi yang dapat berubah seiring pemutakhiran data.",
-    "fact": "https://www.big.go.id/",
+    "title": "Indonesia memiliki lebih dari 17",
+    "fact": "Indonesia memiliki lebih dari 17.000 pulau menurut berbagai penghitungan resmi yang dapat berubah seiring pemutakhiran data.",
     "age": 10,
     "safe": true,
-    "reviewed": false
+    "reviewed": false,
+    "source_url": "https://www.big.go.id/"
   }
 ]
