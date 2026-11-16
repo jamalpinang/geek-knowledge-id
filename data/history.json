@@ -1,0 +1,74 @@
+[
+  {
+    "id": "HI001",
+    "category": "Sejarah",
+    "title": "Kertas dibuat di Tiongkok pada masa awal Kekaisaran Han dan kemudian menyebar ke berbagai wilayah.",
+    "fact": "https://www.britannica.com/technology/paper",
+    "age": 10,
+    "safe": true,
+    "reviewed": false
+  },
+  {
+    "id": "HI002",
+    "category": "Sejarah",
+    "title": "Piramida Giza dibangun di Mesir Kuno sebagai kompleks makam kerajaan.",
+    "fact": "https://www.britannica.com/topic/Pyramids-of-Giza",
+    "age": 10,
+    "safe": true,
+    "reviewed": false
+  },
+  {
+    "id": "HI003",
+    "category": "Sejarah",
+    "title": "Candi Borobudur berada di Jawa Tengah dan merupakan salah satu monumen Buddha terbesar di dunia.",
+    "fact": "https://whc.unesco.org/en/list/592/",
+    "age": 10,
+    "safe": true,
+    "reviewed": false
+  },
+  {
+    "id": "HI004",
+    "category": "Sejarah",
+    "title": "Kompas magnetik membantu pelaut menentukan arah dan berkembang menjadi alat navigasi penting.",
+    "fact": "https://www.britannica.com/technology/compass-navigation",
+    "age": 10,
+    "safe": true,
+    "reviewed": false
+  },
+  {
+    "id": "HI005",
+    "category": "Sejarah",
+    "title": "Mesin cetak dengan huruf lepas yang dikembangkan Johannes Gutenberg membantu penyebaran buku di Eropa.",
+    "fact": "https://www.britannica.com/technology/printing-press",
+    "age": 10,
+    "safe": true,
+    "reviewed": false
+  },
+  {
+    "id": "HI006",
+    "category": "Sejarah",
+    "title": "Tembok Besar Tiongkok dibangun dan diperkuat dalam berbagai masa oleh dinasti yang berbeda.",
+    "fact": "https://whc.unesco.org/en/list/438/",
+    "age": 10,
+    "safe": true,
+    "reviewed": false
+  },
+  {
+    "id": "HI007",
+    "category": "Sejarah",
+    "title": "Angkor Wat di Kamboja awalnya dibangun sebagai kuil Hindu dan kemudian menjadi pusat keagamaan Buddha.",
+    "fact": "https://whc.unesco.org/en/list/668/",
+    "age": 10,
+    "safe": true,
+    "reviewed": false
+  },
+  {
+    "id": "HI008",
+    "category": "Sejarah",
+    "title": "Proklamasi Kemerdekaan Indonesia dibacakan pada 17 Agustus 1945.",
+    "fact": "https://indonesia.go.id/",
+    "age": 10,
+    "safe": true,
+    "reviewed": false
+  }
+]
