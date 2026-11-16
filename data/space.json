@@ -1,0 +1,74 @@
+[
+  {
+    "id": "SP001",
+    "category": "Antariksa",
+    "title": "Matahari adalah bintang yang menjadi pusat tata surya kita.",
+    "fact": "https://science.nasa.gov/sun/",
+    "age": 10,
+    "safe": true,
+    "reviewed": false
+  },
+  {
+    "id": "SP002",
+    "category": "Antariksa",
+    "title": "Bulan tidak menghasilkan cahaya sendiri; kita melihat cahaya Matahari yang dipantulkan permukaannya.",
+    "fact": "https://science.nasa.gov/moon/",
+    "age": 10,
+    "safe": true,
+    "reviewed": false
+  },
+  {
+    "id": "SP003",
+    "category": "Antariksa",
+    "title": "Mars tampak kemerahan karena banyak debu di permukaannya mengandung mineral besi yang teroksidasi.",
+    "fact": "https://science.nasa.gov/mars/",
+    "age": 10,
+    "safe": true,
+    "reviewed": false
+  },
+  {
+    "id": "SP004",
+    "category": "Antariksa",
+    "title": "Jupiter adalah planet terbesar di tata surya.",
+    "fact": "https://science.nasa.gov/jupiter/",
+    "age": 10,
+    "safe": true,
+    "reviewed": false
+  },
+  {
+    "id": "SP005",
+    "category": "Antariksa",
+    "title": "Saturnus memiliki sistem cincin yang sangat luas, tersusun terutama dari partikel es dan batuan.",
+    "fact": "https://science.nasa.gov/saturn/",
+    "age": 10,
+    "safe": true,
+    "reviewed": false
+  },
+  {
+    "id": "SP006",
+    "category": "Antariksa",
+    "title": "Satu hari di Venus lebih lama daripada satu tahun Venus karena Venus berputar sangat lambat.",
+    "fact": "https://science.nasa.gov/venus/",
+    "age": 10,
+    "safe": true,
+    "reviewed": false
+  },
+  {
+    "id": "SP007",
+    "category": "Antariksa",
+    "title": "Bintang-bintang tampak berkelap-kelip karena cahaya mereka dibelokkan oleh atmosfer Bumi yang bergerak.",
+    "fact": "https://spaceplace.nasa.gov/twinkle/",
+    "age": 10,
+    "safe": true,
+    "reviewed": false
+  },
+  {
+    "id": "SP008",
+    "category": "Antariksa",
+    "title": "Galaksi Bima Sakti adalah galaksi tempat tata surya kita berada.",
+    "fact": "https://science.nasa.gov/universe/galaxies/",
+    "age": 10,
+    "safe": true,
+    "reviewed": false
+  }
+]
