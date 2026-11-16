@@ -1,0 +1,74 @@
+[
+  {
+    "id": "TE001",
+    "category": "Teknologi",
+    "title": "Komputer menyimpan dan mengolah informasi dalam bentuk data digital.",
+    "fact": "https://www.britannica.com/technology/computer",
+    "age": 10,
+    "safe": true,
+    "reviewed": false
+  },
+  {
+    "id": "TE002",
+    "category": "Teknologi",
+    "title": "Kode biner menggunakan dua angka, yaitu 0 dan 1, untuk mewakili data.",
+    "fact": "https://www.britannica.com/science/binary-number",
+    "age": 10,
+    "safe": true,
+    "reviewed": false
+  },
+  {
+    "id": "TE003",
+    "category": "Teknologi",
+    "title": "Sensor adalah komponen yang mendeteksi perubahan seperti suhu, cahaya, atau gerakan.",
+    "fact": "https://www.britannica.com/technology/sensor",
+    "age": 10,
+    "safe": true,
+    "reviewed": false
+  },
+  {
+    "id": "TE004",
+    "category": "Teknologi",
+    "title": "GPS menentukan lokasi dengan menerima sinyal dari beberapa satelit navigasi.",
+    "fact": "https://www.gps.gov/",
+    "age": 10,
+    "safe": true,
+    "reviewed": false
+  },
+  {
+    "id": "TE005",
+    "category": "Teknologi",
+    "title": "Panel surya mengubah energi cahaya Matahari menjadi energi listrik.",
+    "fact": "https://www.energy.gov/eere/solar/how-does-solar-work",
+    "age": 10,
+    "safe": true,
+    "reviewed": false
+  },
+  {
+    "id": "TE006",
+    "category": "Teknologi",
+    "title": "Serat optik mengirimkan informasi menggunakan pulsa cahaya di dalam serat yang sangat tipis.",
+    "fact": "https://www.britannica.com/technology/fiber-optics",
+    "age": 10,
+    "safe": true,
+    "reviewed": false
+  },
+  {
+    "id": "TE007",
+    "category": "Teknologi",
+    "title": "Bluetooth adalah teknologi komunikasi nirkabel jarak dekat antarperangkat.",
+    "fact": "https://www.bluetooth.com/learn-about-bluetooth/",
+    "age": 10,
+    "safe": true,
+    "reviewed": false
+  },
+  {
+    "id": "TE008",
+    "category": "Teknologi",
+    "title": "Mikrokontroler adalah komputer kecil dalam satu chip yang dapat mengendalikan perangkat elektronik.",
+    "fact": "https://www.britannica.com/technology/microprocessor",
+    "age": 10,
+    "safe": true,
+    "reviewed": false
+  }
+]
