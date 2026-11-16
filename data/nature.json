@@ -1,0 +1,74 @@
+[
+  {
+    "id": "NA001",
+    "category": "Alam",
+    "title": "Air laut terasa asin karena mengandung garam dan mineral terlarut.",
+    "fact": "https://oceanservice.noaa.gov/facts/whysalty.html",
+    "age": 10,
+    "safe": true,
+    "reviewed": false
+  },
+  {
+    "id": "NA002",
+    "category": "Alam",
+    "title": "Pelangi terbentuk ketika cahaya matahari dibiaskan, dipantulkan, dan diuraikan oleh tetesan air.",
+    "fact": "https://www.weather.gov/jetstream/rainbow",
+    "age": 10,
+    "safe": true,
+    "reviewed": false
+  },
+  {
+    "id": "NA003",
+    "category": "Alam",
+    "title": "Petir memanaskan udara di sekitarnya dengan sangat cepat sehingga udara mengembang dan menghasilkan guntur.",
+    "fact": "https://www.nssl.noaa.gov/education/svrwx101/lightning/",
+    "age": 10,
+    "safe": true,
+    "reviewed": false
+  },
+  {
+    "id": "NA004",
+    "category": "Alam",
+    "title": "Akar tanaman membantu menyerap air dan mineral dari tanah.",
+    "fact": "https://www.britannica.com/science/root-plant",
+    "age": 10,
+    "safe": true,
+    "reviewed": false
+  },
+  {
+    "id": "NA005",
+    "category": "Alam",
+    "title": "Hutan mangrove dapat membantu mengurangi hantaman gelombang dan menyediakan tempat hidup bagi banyak hewan.",
+    "fact": "https://oceanservice.noaa.gov/facts/mangroves.html",
+    "age": 10,
+    "safe": true,
+    "reviewed": false
+  },
+  {
+    "id": "NA006",
+    "category": "Alam",
+    "title": "Batuan dapat berubah perlahan melalui proses pelapukan, erosi, panas, dan tekanan.",
+    "fact": "https://www.usgs.gov/special-topics/water-science-school",
+    "age": 10,
+    "safe": true,
+    "reviewed": false
+  },
+  {
+    "id": "NA007",
+    "category": "Alam",
+    "title": "Air di bumi terus bergerak melalui penguapan, pembentukan awan, hujan, dan aliran air; proses ini disebut siklus air.",
+    "fact": "https://www.usgs.gov/special-topics/water-science-school/science/water-cycle",
+    "age": 10,
+    "safe": true,
+    "reviewed": false
+  },
+  {
+    "id": "NA008",
+    "category": "Alam",
+    "title": "Terumbu karang dibangun oleh hewan kecil bernama polip karang yang menghasilkan rangka keras.",
+    "fact": "https://oceanservice.noaa.gov/education/tutorial_corals/",
+    "age": 10,
+    "safe": true,
+    "reviewed": false
+  }
+]
