@@ -1,0 +1,74 @@
+[
+  {
+    "id": "OC001",
+    "category": "Laut",
+    "title": "Paus biru adalah hewan terbesar yang diketahui pernah hidup di Bumi.",
+    "fact": "https://ocean.si.edu/ocean-life/marine-mammals/blue-whale",
+    "age": 10,
+    "safe": true,
+    "reviewed": false
+  },
+  {
+    "id": "OC002",
+    "category": "Laut",
+    "title": "Terumbu karang menyediakan tempat berlindung dan mencari makan bagi banyak jenis makhluk laut.",
+    "fact": "https://oceanservice.noaa.gov/education/tutorial_corals/",
+    "age": 10,
+    "safe": true,
+    "reviewed": false
+  },
+  {
+    "id": "OC003",
+    "category": "Laut",
+    "title": "Air laut memiliki massa jenis lebih tinggi daripada air tawar karena mengandung garam terlarut.",
+    "fact": "https://oceanservice.noaa.gov/facts/whysalty.html",
+    "age": 10,
+    "safe": true,
+    "reviewed": false
+  },
+  {
+    "id": "OC004",
+    "category": "Laut",
+    "title": "Hiu memiliki kerangka yang tersusun dari tulang rawan, bukan tulang keras seperti manusia.",
+    "fact": "https://ocean.si.edu/ocean-life/fish/sharks-rays",
+    "age": 10,
+    "safe": true,
+    "reviewed": false
+  },
+  {
+    "id": "OC005",
+    "category": "Laut",
+    "title": "Rumput laut dan fitoplankton merupakan bagian penting dari ekosistem laut.",
+    "fact": "https://oceanservice.noaa.gov/facts/phyto.html",
+    "age": 10,
+    "safe": true,
+    "reviewed": false
+  },
+  {
+    "id": "OC006",
+    "category": "Laut",
+    "title": "Zona laut dalam menerima sangat sedikit atau tidak menerima cahaya Matahari.",
+    "fact": "https://oceanexplorer.noaa.gov/facts/deep-ocean.html",
+    "age": 10,
+    "safe": true,
+    "reviewed": false
+  },
+  {
+    "id": "OC007",
+    "category": "Laut",
+    "title": "Penyu laut betina biasanya kembali ke pantai untuk meletakkan telur di pasir.",
+    "fact": "https://ocean.si.edu/ocean-life/reptiles/sea-turtles",
+    "age": 10,
+    "safe": true,
+    "reviewed": false
+  },
+  {
+    "id": "OC008",
+    "category": "Laut",
+    "title": "Pasang surut laut terutama dipengaruhi oleh tarikan gravitasi Bulan dan juga Matahari.",
+    "fact": "https://oceanservice.noaa.gov/education/tutorial_tides/",
+    "age": 10,
+    "safe": true,
+    "reviewed": false
+  }
+]
