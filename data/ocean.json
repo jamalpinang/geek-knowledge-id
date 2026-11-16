@@ -2,73 +2,81 @@
   {
     "id": "OC001",
     "category": "Laut",
-    "title": "Paus biru adalah hewan terbesar yang diketahui pernah hidup di Bumi.",
-    "fact": "https://ocean.si.edu/ocean-life/marine-mammals/blue-whale",
+    "title": "Paus biru adalah hewan terbesar",
+    "fact": "Paus biru adalah hewan terbesar yang diketahui pernah hidup di Bumi.",
     "age": 10,
     "safe": true,
-    "reviewed": false
+    "reviewed": false,
+    "source_url": "https://ocean.si.edu/ocean-life/marine-mammals/blue-whale"
   },
   {
     "id": "OC002",
     "category": "Laut",
-    "title": "Terumbu karang menyediakan tempat berlindung dan mencari makan bagi banyak jenis makhluk laut.",
-    "fact": "https://oceanservice.noaa.gov/education/tutorial_corals/",
+    "title": "Terumbu karang menyediakan tempa",
+    "fact": "Terumbu karang menyediakan tempat berlindung dan mencari makan bagi banyak jenis makhluk laut.",
     "age": 10,
     "safe": true,
-    "reviewed": false
+    "reviewed": false,
+    "source_url": "https://oceanservice.noaa.gov/education/tutorial_corals/"
   },
   {
     "id": "OC003",
     "category": "Laut",
-    "title": "Air laut memiliki massa jenis lebih tinggi daripada air tawar karena mengandung garam terlarut.",
-    "fact": "https://oceanservice.noaa.gov/facts/whysalty.html",
+    "title": "Air laut memiliki massa jenis",
+    "fact": "Air laut memiliki massa jenis lebih tinggi daripada air tawar karena mengandung garam terlarut.",
     "age": 10,
     "safe": true,
-    "reviewed": false
+    "reviewed": false,
+    "source_url": "https://oceanservice.noaa.gov/facts/whysalty.html"
   },
   {
     "id": "OC004",
     "category": "Laut",
-    "title": "Hiu memiliki kerangka yang tersusun dari tulang rawan, bukan tulang keras seperti manusia.",
-    "fact": "https://ocean.si.edu/ocean-life/fish/sharks-rays",
+    "title": "Hiu memiliki kerangka yang tersu",
+    "fact": "Hiu memiliki kerangka yang tersusun dari tulang rawan, bukan tulang keras seperti manusia.",
     "age": 10,
     "safe": true,
-    "reviewed": false
+    "reviewed": false,
+    "source_url": "https://ocean.si.edu/ocean-life/fish/sharks-rays"
   },
   {
     "id": "OC005",
     "category": "Laut",
-    "title": "Rumput laut dan fitoplankton merupakan bagian penting dari ekosistem laut.",
-    "fact": "https://oceanservice.noaa.gov/facts/phyto.html",
+    "title": "Rumput laut dan fitoplankton mer",
+    "fact": "Rumput laut dan fitoplankton merupakan bagian penting dari ekosistem laut.",
     "age": 10,
     "safe": true,
-    "reviewed": false
+    "reviewed": false,
+    "source_url": "https://oceanservice.noaa.gov/facts/phyto.html"
   },
   {
     "id": "OC006",
     "category": "Laut",
-    "title": "Zona laut dalam menerima sangat sedikit atau tidak menerima cahaya Matahari.",
-    "fact": "https://oceanexplorer.noaa.gov/facts/deep-ocean.html",
+    "title": "Zona laut dalam menerima sangat",
+    "fact": "Zona laut dalam menerima sangat sedikit atau tidak menerima cahaya Matahari.",
     "age": 10,
     "safe": true,
-    "reviewed": false
+    "reviewed": false,
+    "source_url": "https://oceanexplorer.noaa.gov/facts/deep-ocean.html"
   },
   {
     "id": "OC007",
     "category": "Laut",
-    "title": "Penyu laut betina biasanya kembali ke pantai untuk meletakkan telur di pasir.",
-    "fact": "https://ocean.si.edu/ocean-life/reptiles/sea-turtles",
+    "title": "Penyu laut betina biasanya kemba",
+    "fact": "Penyu laut betina biasanya kembali ke pantai untuk meletakkan telur di pasir.",
     "age": 10,
     "safe": true,
-    "reviewed": false
+    "reviewed": false,
+    "source_url": "https://ocean.si.edu/ocean-life/reptiles/sea-turtles"
   },
   {
     "id": "OC008",
     "category": "Laut",
-    "title": "Pasang surut laut terutama dipengaruhi oleh tarikan gravitasi Bulan dan juga Matahari.",
-    "fact": "https://oceanservice.noaa.gov/education/tutorial_tides/",
+    "title": "Pasang surut laut terutama dipen",
+    "fact": "Pasang surut laut terutama dipengaruhi oleh tarikan gravitasi Bulan dan juga Matahari.",
     "age": 10,
     "safe": true,
-    "reviewed": false
+    "reviewed": false,
+    "source_url": "https://oceanservice.noaa.gov/education/tutorial_tides/"
   }
 ]
